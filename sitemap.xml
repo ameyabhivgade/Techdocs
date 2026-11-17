@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Public Projects (Top 5) -->
+  <url>
+    <loc>https://techdocs.akamai.com/adaptive-acceleration/</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techdocs.akamai.com/adaptive-media-delivery/</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techdocs.akamai.com/akamai-functions/</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techdocs.akamai.com/alerts-app/</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techdocs.akamai.com/amp2-bitmovin/</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+
+  <!-- Private Projects (Top 5 Authenticated URLs, Excluding Changelog) -->
+  <url>
+    <loc>https://techdocs.akamai.com/?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFrYWRvY29wc0BnbWFpbC5jb20iLCJ2ZXJzaW9uIjoxLCJleHAiOjE4MDE2NTAxMDIsImlhdCI6MTc5Mzg3NDEwMn0.eLay83Yl1K-EO2yVdfwG-SsV_E_YQK9i4-TrM-25yg8&amp;redirect=%2Fbrand-protector%2Fdocs%2Fwelcome</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techdocs.akamai.com/?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFrYWRvY29wc0BnbWFpbC5jb20iLCJ2ZXJzaW9uIjoxLCJleHAiOjE4MDE2NTAxMDIsImlhdCI6MTc5Mzg3NDEwMn0.eLay83Yl1K-EO2yVdfwG-SsV_E_YQK9i4-TrM-25yg8&amp;redirect=%2Fbrand-protector%2Fdocs%2Foverview</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techdocs.akamai.com/?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFrYWRvY29wc0BnbWFpbC5jb20iLCJ2ZXJzaW9uIjoxLCJleHAiOjE4MDE2NTAxMDIsImlhdCI6MTc5Mzg3NDEwMn0.eLay83Yl1K-EO2yVdfwG-SsV_E_YQK9i4-TrM-25yg8&amp;redirect=%2Fbrand-protector%2Fdocs%2Fset-up-protections</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techdocs.akamai.com/?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFrYWRvY29wc0BnbWFpbC5jb20iLCJ2ZXJzaW9uIjoxLCJleHAiOjE4MDE2NTAxMDIsImlhdCI6MTc5Mzg3NDEwMn0.eLay83Yl1K-EO2yVdfwG-SsV_E_YQK9i4-TrM-25yg8&amp;redirect=%2Fbrand-protector%2Fdocs%2Fcreate-a-configuration</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techdocs.akamai.com/?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFrYWRvY29wc0BnbWFpbC5jb20iLCJ2ZXJzaW9uIjoxLCJleHAiOjE4MDE2NTAxMDIsImlhdCI6MTc5Mzg3NDEwMn0.eLay83Yl1K-EO2yVdfwG-SsV_E_YQK9i4-TrM-25yg8&amp;redirect=%2Fbrand-protector%2Fdocs%2Fenable-protection-for-your-security-policy</loc>
+    <lastmod>2026-11-10T22:26:06.009Z</lastmod>
+  </url>
+</urlset>
